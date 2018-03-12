@@ -674,6 +674,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact #google-map {
   height: 300px;
   margin-bottom: 20px;
+  margin-left: :10px;
 }
 
 .contact-icon {
